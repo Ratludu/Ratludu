@@ -14,3 +14,4 @@ Feel free to check out my projects and reach out if you want to connect or colla
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratludu&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ratludu)](https:/rgithub.com/ratludu/github-readme-stats)
