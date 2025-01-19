@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 🐀 
 
+I enjoy working with data—analyzing it, building dashboards, and exploring machine learning to solve problems. I like turning complex data into something clear and useful.
+
+Feel free to check out my projects and reach out if you want to connect or collaborate! 🚀
 
 <h2> Tools that I have been using and learning 🔧</h2>
 <p align="left">
