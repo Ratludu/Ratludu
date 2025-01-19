@@ -5,7 +5,7 @@ I enjoy working with data—analyzing it, building dashboards, and exploring mac
 Feel free to check out my projects and reach out if you want to connect or collaborate! 🚀
 
 ## Other Profiles
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/your-username)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/endingshostler)
 
 <h2> Tools that I have been using and learning 🔧</h2>
 <p align="left">
