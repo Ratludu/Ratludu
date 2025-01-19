@@ -4,6 +4,9 @@ I enjoy working with data—analyzing it, building dashboards, and exploring mac
 
 Feel free to check out my projects and reach out if you want to connect or collaborate! 🚀
 
+## Other Profiles
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue)](https://www.kaggle.com/your-username)
+
 <h2> Tools that I have been using and learning 🔧</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt = "python" width="30" height="30"/>
@@ -14,3 +17,5 @@ Feel free to check out my projects and reach out if you want to connect or colla
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratludu&layout=compact&theme=gruvbox)](https://github.com/ratludu/github-readme-stats)
+
+
