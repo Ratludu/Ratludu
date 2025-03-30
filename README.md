@@ -17,6 +17,6 @@ Feel free to check out my projects and reach out if you want to connect or colla
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="GoLang" width="30" height="30"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratludu&layout=compact&theme=gruvbox)](https://github.com/ratludu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratludu&layout=compact&theme=tokyonight)](https://github.com/ratludu/github-readme-stats)
 
 
