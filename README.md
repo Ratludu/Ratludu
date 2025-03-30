@@ -1,6 +1,6 @@
 ## Hi there 🐀 
 
-I enjoy working with data—analyzing it, building dashboards, and exploring machine learning to solve problems. I like turning complex data into something clear and useful.
+I enjoy working with data—analyzing it, building dashboards, and exploring machine learning to solve problems. I like turning complex data into something clear and useful. If your interested you can see my terminal style portfolio [here](https://ratludu.github.io/terminal-portfolio/).
 
 Feel free to check out my projects and reach out if you want to connect or collaborate! 🚀
 
